@@ -24,6 +24,7 @@ export default class Index extends React.Component {
     return (
       <Provider store={this.store}>
         <Wrapper>
+          <PettyNotice />
           <Map />
           <Chat />
         </Wrapper>
