@@ -18,7 +18,7 @@ const styles = style({
 })
 const message =
 `Alright there's content here now, Jordan.
-    You can get off my ass.
+    You can get off my butt.
 `
 export default () => (
   <div className={styles}>{message}</div>
